@@ -6,9 +6,8 @@
     font-family: var(--secundary-font);
     font-size: var(--large-font);
     border: 2px solid var(--white-color);
-    border-radius: 50%;
-    width: 65px;
-    height: 65px;
+    border-radius: 10%;
+    padding: 10px;
     text-align: center;
     line-height: 59px;
     text-decoration: underline;
