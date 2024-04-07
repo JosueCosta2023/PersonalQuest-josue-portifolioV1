@@ -17,11 +17,14 @@ body{
 .container{
     max-width: 1140px;
     margin: auto;
+    
 }
 
 .row{
     display: flex;
     flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
 }
 
 .justify-content-between{

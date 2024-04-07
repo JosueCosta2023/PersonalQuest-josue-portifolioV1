@@ -1,6 +1,7 @@
 .sobre-mim .imagem-sobre-mim{
-    max-width: 40%;
+    max-width: 20%;
     padding: 0 15px;
+    margin-bottom: 20px;
 }
 
 .sobre-mim .imagem-sobre-mim .img-box{
@@ -15,7 +16,7 @@
 }
 
 .sobre-mim .informacoes-sobre-mim{
-    max-width: 50%;
+    max-width: 100%;
     padding: 0 25px;
 
 }
@@ -34,7 +35,7 @@
         justify-content: center;
     }
     .sobre-mim .imagem-sobre-mim {
-        max-width: 100%;
+        max-width: 60%;
         padding: 0 var(--mobile-padding);
         margin-bottom: 50px;
     }
